@@ -1,16 +1,26 @@
 # trackbook
 
-Trackbook, Track your latest page
+Trackbook, Track your latest page. Using SQFLITE for databases and flutter_slidable for slidable widget to ensure great experience for track your book page!
 
-## Getting Started
+## Feature
+### Track your last read page
 
-This project is a starting point for a Flutter application.
+<img src="https://github.com/user-attachments/assets/9424b93e-0dea-4924-87ae-c0398cecf351" width="500">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/user-attachments/assets/b3e64785-81e9-400b-aa2d-cf4db616be49" width="500"> 
+
+
+### Add or edit Book 
+
+
+<img src="https://github.com/user-attachments/assets/ba9e80fe-9850-4d5f-85a3-b8877e99f59b" width="500"> 
+
+<img src="https://github.com/user-attachments/assets/a1699a78-4eb2-4c92-a031-463598cf664d" width="500"> 
+
+
+
+### Swipe to delete or edit
+
+<img src="https://github.com/user-attachments/assets/f7394f4f-b87b-43e6-9c2e-961a0668b986" width="500"> 
